@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "web-scrapi"
+version = "0.1.0"
+description = ""
+authors = ["samratshrestha <samratshrestha4536@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Django = "^5.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
